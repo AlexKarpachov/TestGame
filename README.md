@@ -13,7 +13,7 @@ After reviewing the assignment, I decided to base the game mechanics on the **To
 
 ## Features
 - **Basic enemy pathfinding**: Enemies follow a fixed route toward the player's base.
-- **Defense placement**: The player can place obstacles or towers along the path to slow down or eliminate enemies.
+- **Defense placement**: The player can place two tower types (at different price) along the path to slow down or eliminate enemies.
 - **Simple game mechanics**: This prototype demonstrates the core Tower Defense mechanics, suitable for further development.
 
 ## Next Steps
